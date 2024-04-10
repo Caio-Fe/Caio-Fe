@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/caio-fe/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=caio-fe)](https://github.com/caio-fe/github-profile-trophy)
 
 <!--
 **Caio-Fe/Caio-Fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
